@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Hello post",
+      "body": "Quis sint proident exercitation ex cillum tempor laboris nulla adipisicing est ut laborum sint. Pariatur non qui cupidatat sint eiusmod commodo aliquip consequat. Ullamco dolore veniam cillum reprehenderit non eiusmod officia veniam eu elit consectetur nulla. Consectetur tempor tempor dolore veniam occaecat deserunt nostrud magna id magna sunt. Fugiat aliquip commodo nisi dolore minim proident qui eu dolor cillum excepteur ullamco qui. Labore duis incididunt cillum ex excepteur deserunt nostrud. Ut velit dolor aliqua elit laboris id dolor exercitation."
+    },
+    {
+      "id": 2,
+      "title": "Hello Next",
+      "body": "My name is Bagavdin, i know nextJs"
+    },
+    {
+      "id": 3,
+      "title": "Relax",
+      "body": "Quis sint proident exercitation ex cillum tempor laboris nulla adipisicing est ut laborum sint. Pariatur non qui cupidatat sint eiusmod commodo aliquip consequat. Ullamco dolore veniam cillum reprehenderit non eiusmod officia veniam eu elit consectetur nulla. Consectetur tempor tempor dolore veniam occaecat deserunt nostrud magna id magna sunt. Fugiat aliquip commodo nisi dolore minim proident qui eu dolor cillum excepteur ullamco qui. Labore duis incididunt cillum ex excepteur deserunt nostrud. Ut velit dolor aliqua elit laboris id dolor exercitation."
+    }
+  ]
+}
